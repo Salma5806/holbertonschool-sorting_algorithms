@@ -1,5 +1,5 @@
 #include "sort.h"
-
+#include "swap.h"
 /**
  * bubble_sort - Calls function
  * @array: Array to be sorted
